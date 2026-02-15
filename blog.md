@@ -20,7 +20,7 @@ nav_order: 99
 
   {% for post in month.items %}
 
-  - [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%b %d" }})
+  - [{{ post.title }}]({{ post.url | relative_url}}) ({{ post.date | date: "%b %d" }})
 
   {% endfor %}
 
