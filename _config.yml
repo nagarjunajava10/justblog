@@ -1,3 +1,8 @@
 title: "Just Blog"
 description: "Daily notes and experiments"
 theme: minima
+
+header_pages:
+  - index.md
+  - blog.md
+  - getting-started.md
