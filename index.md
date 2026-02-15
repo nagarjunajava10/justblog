@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: page
 nav_order: 0
 ---
 # Welcome to my learning log
