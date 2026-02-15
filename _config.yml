@@ -1,3 +1,6 @@
 title: "My Learning Log"
 description: "Daily notes and experiments"
-theme: minima
+remote_theme: rundocs/jekyll-rtd-theme
+
+plugins:
+  - jekyll-remote-theme
