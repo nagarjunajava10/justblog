@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Blog
+title: Blog Posts
 nav_order: 99
 ---
 
-# Blog
+# Blog Posts
 
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 

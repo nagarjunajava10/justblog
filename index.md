@@ -11,3 +11,4 @@ Welcome to my learning documentation site. This guide will help you understand h
 ## Quick Links
 
 - [Getting Started](getting-started.md)
+- [Blog Posts](blog.md)
