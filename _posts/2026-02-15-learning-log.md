@@ -1,13 +1,6 @@
 ---
-title: "Day 1 – GitHub Pages + Jekyll"
+title: "GitHub Pages + Jekyll"
 date: 2026-02-15
----
-
-Proceed with **“GitHub Pages Jekyll (Package a Jekyll site with GitHub Pages dependencies preinstalled)”**.  
-In fact, for most people, **this is the easiest and cleanest way** to set up a Jekyll-powered site without manually configuring Ruby, Bundler, or Gemfiles.
-
-Let me explain what it means and why it’s a good choice for your learning‑log workflow.
-
 ---
 
 # ✅ What this GitHub Pages Jekyll option does
@@ -93,20 +86,9 @@ You only need the manual method if you want:
 For your use case (daily notes, simple site), the **GitHub Pages Jekyll** option is perfect.
 
 ---
-
-# 🚀 Want me to generate a complete starter template?
-I can create a ready-to-copy structure:
-
-```
-_config.yml
-index.md
-_posts/
-   2026-02-15-day-1.md
-assets/
-```
-
-
 ---
+
+
 # Blog Style Layout
 A **blog‑style Jekyll layout** is exactly what GitHub Pages is designed for, a clean, ready‑to‑use structure that feels like a real developer blog. You’ll be able to drop in Markdown files every day and GitHub will automatically turn them into posts.
 

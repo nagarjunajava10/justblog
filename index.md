@@ -1,1 +1,2 @@
-# Welcome to My Learning Log on 15th Feb
+# My Learning Log
+---
