@@ -5,7 +5,7 @@ nav_order: 0
 # Welcome to my learning log
 
 
-This is the homepage of your documentation site. Use this page to introduce your project, provide quick links, or highlight important information.
+Welcome to my learning documentation site. This guide will help you understand how the site is organized, how to navigate through the content, and what you can expect as I continue adding new material.
 
 ## Quick Links
 
